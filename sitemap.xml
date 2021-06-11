@@ -2,15 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/</loc>
+  </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/aprakAshitam/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/kArikA/</loc>
   </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/chAturmAsyaprayogaH/</loc>
+  </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/bhUmikA/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/mantraH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/05/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/</loc>
   </url><url>
@@ -18,13 +34,13 @@
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/categories/</loc>
   </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/publisher-note/</loc>
+  </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/tags/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/kArikA/vaasudeva-cayanopadhAna-kArikA/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/aprakAshitam/agnimukham/</loc>
-  </url><url>
-    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agnihotra-prayogaH/</loc>
   </url><url>
@@ -32,7 +48,7 @@
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/aprakAshitam/atirAtram/</loc>
   </url><url>
-    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/antyeShTiH/</loc>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/aprakAshitam/antyeShTiH/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/anvArambhaNIyA/</loc>
   </url><url>
@@ -49,8 +65,6 @@
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/kArikA/kArikAntaram/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/kArikA/chayana-kArikA/</loc>
-  </url><url>
-    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/chAturmAsyaprayogaH/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/kArikA/trisahasra-prAchIna-kArikA/</loc>
   </url><url>
@@ -72,14 +86,390 @@
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/kArikA/vAsudeva-kArikA/</loc>
   </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/viShaya-sUchiH/</loc>
+  </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/vediH/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/aprakAshitam/Shodashi/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/sambhArAH/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/kArikA/sarvato-mukha-karikA/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/mantraH/shastraaNi/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/0_prakAshana-vivaraNAni/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/01_agnipraNayanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/bhUmikA/01_agnihotramahimA/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/01_AgnIdhrIyAdInAmabhimarshanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/01_tAnUnaptrAvadAnam_abhimarshanam_avaghrANaM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/chAturmAsyaprayogaH/01_panchahotRhomaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/05/01_mAdhyandinasavanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/01_somasankalpaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/bhUmikA/02_agnihotrAdIni_nityakarmANi/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/chAturmAsyaprayogaH/02_anvArambhaNIyA/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/05/02_tRtIyasavanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/02_yajnatanUnAM_homaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/02_shAkhAharaNaM_vatsApAkaraNaM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/02_somapravAkavaraNaM_RtvigbhyaH_somanivedanaM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/02_somApyAyanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/05/03_avabhRtheShTiH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/03_avAntaradIxAgrahaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/bhUmikA/03_granthoddiShTakarmaNAM_sankShepataH_parichayaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/chAturmAsyaprayogaH/03_vaishvadevaM_parva/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/03_savanIyapAtrANAmAsAdanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/03_havirdhAnanirmANam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/03_hotRgaNasya_prashnaprativachane/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/04_udgAtRRNAM_prashnaprativachane/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/04_pravargyasambharaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/chAturmAsyaprayogaH/04_sAyaMdohaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/bhUmikA/04_somaprayoge_avagantavyAH_viShayAH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/04_somarAjnaH_upAvaharaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/04_havirdhAnapravartanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/05_pravargyapAtrANAM_karaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/bhUmikA/05_yajne_yAjamAnam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/chAturmAsyaprayogaH/05_vapanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/05_sadasyasya_prashnaprativachane/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/05_savanIyahaviShAM_karaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/05_havirdhAnasya_mAnam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/chAturmAsyaprayogaH/06_antarAlavratAni/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/06_AgnIdhrasadasoH_mAnam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/bhUmikA/06_RtviglaxaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/06_RtvigvaraNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/06_ekadhanaghaTeShu_apgrahaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/06_pakvapravargyapAtrANAmudvAsanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/07_audumbaryAH_saMskAraH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/bhUmikA/07_daxiNAdAnam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/07_devatopasthAnaM_nAndIshrAddhancha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/07_pannejanIgrahaNaM_sAdanaM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/07_pravargyakarmArambhaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/chAturmAsyaprayogaH/07_varuNapraghAsaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/08_devayajanagamanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/08_pUrvashAntipAThaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/bhUmikA/08_yajne-nnadAnam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/08_sadasaH_nirmANam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/chAturmAsyaprayogaH/08_sAkamedhAH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/08_hotRchamasamaitrAvaruNachamasayoH_parasparaM_vyAnayanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/09_uparavakaraNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/bhUmikA/09_granthaparichayaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/09_pravargyasya_pAtrANAmAsAdanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/chAturmAsyaprayogaH/09_shunAsIrIyaparva/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/09_sambhArayajuShaH_havanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/09_hotR-chamasa-maitrAvaruNa-chamasayos_samanjanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/10_kratukaraNahomaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/chAturmAsyaprayogaH/10_chAturmAsyAnAmanuShThAnavidhayaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/10_dhiShNiyAnAmupavapanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/10_pravargyapAtrANAM_proxaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/10_somapUjA_saptahotRhomashcha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/11_dadhigrahaprachAraH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/11_dIxaNIyeShTeH_purastAt_AhavanIyopasthAnam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/11_pAtraprayogaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/11_mahAvIrasya_saMmArjanamAjyAhutIshcha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/12_adAbhyagrahaprachAraH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/12_dIxaNIyeShTiH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/12_mahAvIrasya_samanjanaM_pratiShThApanaM_AjyapUraNaM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/12_vaisarjanahomaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/13_aMshugrahaprachAraH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/13_agnIShomIyapraNayanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/13_angAraiH_paryUhaNaM_paridhibhiH_paridhAnam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/13_prAchInavaMshakaraNaM_yajamAnapatnyoH_dIxAngasaMskArAH_xauram/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/14_somabhaxaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/14_sauvarNena_rukmeNApidhAnaM_abhimantraNaM_upavAjanaM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/14_snAnam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/14_havirdhAne_rAjnaH_sthApanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/15_avAntaradIxAvisarjanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/15_upAMshugrahaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/15_mahAvIrasyAbhimantraNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/15_vastraparidhAnam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/16_bhojanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/16_mahAbhiShavaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/16_mahAvIrasyAvexaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/16_sruchaH_AsAdanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/17_droNakalashasyopari_pavitravitAnam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/17_navanItalepanaM_axNoH_anjanam_darbhapunjIlAbhyAM_pavanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/17_yUpasaMskAraH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/17_rauhiNapuroDAshayoH_AsAdanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/18_dohanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/18_dhArAsrAvaNaM_grahANAM_cha_grahaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/18_pAvyamAne_japaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/18_yUpAnjanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/19_audgrahaNahomaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/19_pavamAnagrahANAmabhimarshanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/19_yUpochChrayaNaM_pratiShThApanaM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/19_shaphopayamanayoH_AdAnaM_mahAvIre_payasoravanayanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/20_yajamAnasya_dIxAprArambhaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/20_yUpaparivyayaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/20_vaipruSha_homaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/20_skannaprAyashchittam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/21_kRShNAjinArohaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/21_pashusaMskAraH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/21_bahiShpavamAnArthaM_sarpaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/21_homArthaM_mahAvIrasya_nayanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/22_agniviharaNaM_nivapanaM_vyAghAraNaM_vyAghAraNasheShabhaxaNaM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/22_daxiNarauhiNapuroDAshasya_homaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/22_patnyAH_kumbakurIrAdhyUhanaM_dIxA_yajamAnasya_shiroveShTanancha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/22_pashorupAkaraNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/23_agnimanthanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/23_gharmasya_homaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/23_dIxitadaNDapradAnam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/23_puroDAshAnAm_alankaraNaM_pashoH_AharaNaM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/24_dIxAjapaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/24_pashoH_niyogaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/24_mahAvIre_dadhnAbhipUraNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/24_savanIyapashostantram/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/25_adhvaryuNA_dIxAnuvAkenAbhimantraNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/25_digyAgaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/25_pravaraH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/25_saumikartvijAM_varaNaM_pravRtahomashcha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/26_uttararauhiNahomaH_shakalahomashcha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/26_grahANAmavexaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/26_prayAjAH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/26_muShTIkaraNaM_vAgyamanancha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/27_agnihotram/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/27_adhvaryuNA-.avedanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/27_paryagnikaraNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/27_yajamAnena_brahmaNA_cha_shRtankArair_upasthAnam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/28_gharmabhaxaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/28_vratapradAnaM_prAshanaM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/28_saMjnapanArthaM_pashoH_haraNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/28_savanIyapuroDAshAnAmAsAdanamabhimarshanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/29_dIxitaniyamAH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/29_madantIbhiH_mArjanaM_gharmaprAyashchittaM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/29_saMjnapanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/29_savanIyapuroDAshAnAM_prachAraH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/30_anyeShAM_niyamAH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/30_dvidevatyagrahaprachAraH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/30_pravargyasya_samAptiH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/30_saMjnapanaprAyashchittAni_saMjnaptahomashcha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/31_uttarashAntipAThaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/31_punardIxitaniyamAH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/31_vapoddharaNArthaM_gamanaM_ApyAyanaM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/31_shukrAmanthigrahaprachAraH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/32_upasatprArambhaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/32_vapoddharaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/32_sanIhAraH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/32_hotrakANAM_chamasaprachAraH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/33_upasaddhomaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/33_dvitIyehni_vratapradAnam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/33_dvidevatyagrahabhaxaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/33_vapAyAH_shrapaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/34_AsAdanaM_ekAdashaH_prayAjaH_AjyabhAgau_vapAhavanaM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/34_RtugrahaprachAraH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/34_subrahmaNyopAhvAnam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/34_somakrayaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/35_aindrAgnagrahagrahaNaM_RtugrahabhaxaNaM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/35_dIxitadaNDoShNIShayoH_pradAnam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/35_pravargyopasadAM_visheShAH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/35_vapAmArjanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/36_Ajyashastram/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/36_tRtIyadinasya_karmArambhaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/36_rAjnaH_haraNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/36_subrahmaNyAhvAnaM_vasatIvarIgrahaNaM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/37_pashupuroDAshanirvapaNAdi/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/37_vedikaraNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/37_vaishvadevastotraM_shastraM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/01/37_shakaTAt_prAchInavaMshe_rAjnaH_AnayanaM_AsandyAM_sthApanaM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/38_angAnAM_uddharaNaM_shrapaNaM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/38_ukthyaparyAyAH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/38_chAtvAlakaraNaM_uttaravedikaraNaM_cha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/39_puroDAshakaraNAdi_prachArAntam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/39_yUpAharaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/39_savanaprAyashchittAni/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/40_pravargyopasadAM_visheShAH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/40_shAmitrasaMvAdaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/04/40_savanAhutiH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/02/41_pravargyodvAsanam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/41_homArthaM_angAvadAnaM_vasAgrahaNaM_prachArashcha/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/42_anUyAja_upayaDDhomau/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/43_patnIsaMyAjA/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/44_vasatIvarI_pariharaNam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/45_savanIya_sAyandohaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/03/46_savanIya_idhmAbarhIShoH_AharaNam/</loc>
   </url>
 </urlset>
