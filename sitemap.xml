@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/2/Dvishahasra-kashi-karika/</loc>
+  </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/aprakAshitam/</loc>
@@ -32,6 +34,8 @@
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/2/</loc>
   </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/3/</loc>
+  </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/categories/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/publisher-note/</loc>
@@ -56,21 +60,39 @@
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/aprakAshitam/AptoryamaH/</loc>
   </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/3/Arunaketukam/</loc>
+  </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/itare_viShayAH/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/aprakAshitam/ukthyam/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/aprakAshitam/ukthyAdIni/</loc>
   </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/2/ujvala-sahasram/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/2/ujvala-dvisaahasram/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/2/kalkatta-karika/</loc>
+  </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/kArikA/kArikAntaram/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/3/kShudra-cayanam/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/kArikA/chayana-kArikA/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/kArikA/trisahasra-prAchIna-kArikA/</loc>
   </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/2/trisAhasra-kArikA/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/2/agnimAnam_apariShkRtam/</loc>
+  </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/darshapUrNamAsayoH_ArambhaH/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/darshapUrNamAseShTi-prayogaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/3/dvAdashAha-prayogaH/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/2/dvishahasra/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/aprakAshitam/naxatreShTiH/</loc>
   </url><url>
@@ -80,11 +102,23 @@
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/piNDapitRyajnaprayogaH/</loc>
   </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/2/praacina-karikaa-sahasram/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/2/praacina-dvisahasram/</loc>
+  </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/mantraH/praataranuvaakaH/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/aprakAshitam/vajapeyam/</loc>
   </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/3/vajapeyam/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/2/vAjapeyam/</loc>
+  </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/kArikA/vAsudeva-kArikA/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/2/Vasudeva-trishahasra/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/2/Vasudeva-dvishahasra/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/viShaya-sUchiH/</loc>
   </url><url>
@@ -95,6 +129,10 @@
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/prayogaH/agniShTomaprayogaH/sambhArAH/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/kArikA/sarvato-mukha-karikA/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/2/sarvatomukham/</loc>
+  </url><url>
+    <loc>https://sanskrit.github.io/mattUru-shrauta-book/2/sautramaniH/</loc>
   </url><url>
     <loc>https://sanskrit.github.io/mattUru-shrauta-book/1/mantraH/shastraaNi/</loc>
   </url><url>
